@@ -1,7 +1,4 @@
 
-Alright — here’s a **solid, professional `README.md` template** for your Twitter sentiment analysis project. It keeps your hacker edge but stays clear and organized for a GitHub repo. You can copy, tweak, and push straight away.
-
----
 
 # Twitter Sentiment Analysis with TF-IDF and SVM
 
@@ -126,5 +123,3 @@ python src/train.py
 MIT License. Feel free to fork, contribute, or adapt.
 
 ---
-
-If you want, I can generate the `requirements.txt` and starter `train.py` for you too. Just say **“Package it!”** and I’ll ship you the whole setup.
